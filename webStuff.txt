@@ -1,0 +1,18 @@
+1. HTTP: hypertext transfer protocol => how we get or send data to/from server
+
+2. URL: essentially an address for things on the internet
+
+3. DNS: takes URLS and converts to an IP address
+
+4. query string: key-value pairs separated by "?" to add specificity to location on webpage
+
+5. GET => retrieves data, doesn't impact server => searches
+   POST => sends data/impacts server => blog posts
+
+6. HTTP request: request from client to server for info
+
+7. HTTP response: response from server to client after request is sent/made
+
+8. HTTP Header: provide info about request/response being made to server => date, language, cookies, hostname
+
+9. Typing in URL??: URL turned into IP address => browser makes requests at that address for info/data => response sent from server => browser displays data from server based on response code
